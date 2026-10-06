@@ -1,0 +1,9 @@
+PlantID,PlantName,CountryCode,OperatorID,FuelID,CapacityMW,CommissionYear
+1,Grand Coulee,USA,101,1,6809,1942
+2,Janschwalde,DEU,102,2,3000,1981
+3,Vindhyachal,IND,103,2,4760,1987
+4,Itaipu,BRA,104,1,14000,1984
+5,Kashiwazaki-Kariwa,JPN,105,3,8212,1985
+6,Loy Yang,AUS,106,2,2210,1984
+7,Three Gorges,CHN,108,1,22500,2003
+8,Tuoketuo,CHN,108,2,13200,1995

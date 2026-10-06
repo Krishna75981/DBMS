@@ -1,0 +1,6 @@
+FuelID,FuelCategory,FuelName
+1,Renewable,Hydro
+2,Fossil,Coal
+3,Nuclear,Uranium
+4,Fossil,Gas
+5,Renewable,Solar
