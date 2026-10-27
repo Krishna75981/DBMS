@@ -1,0 +1,9 @@
+RocketID,RocketName,OrgID,PayloadCapacityKg,OperationalStatus
+401,Falcon 9,202,22800,Active
+402,Saturn V,201,140000,Retired
+403,Proton-M,203,23000,Active
+404,PSLV,204,3800,Active
+405,Long March 2F,205,8400,Active
+406,H-IIB,208,19000,Retired
+407,Electron,207,300,Active
+408,Ariane 5,206,20000,Retired
