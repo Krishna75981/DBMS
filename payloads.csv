@@ -1,9 +1,0 @@
-PayloadID,MissionID,PayloadName,PayloadType,MassKg
-1,1,Orion MPCV,Crew Capsule,25800
-2,2,Dragon Endeavour,Crew Capsule,12500
-3,3,Vyommitra Prototype,Robotics,150
-4,4,Queqiao-2 Relay,Satellite,1200
-5,5,Progress Cargo Supply,Cargo,2450
-6,6,HTV-X Cargo Transporter,Cargo,6000
-7,7,StriX-1 Synthetic Aperture Radar,Satellite,100
-8,8,Sentinel-6B Altimetry Satellite,Satellite,1192
