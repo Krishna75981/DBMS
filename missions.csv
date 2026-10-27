@@ -1,0 +1,9 @@
+MissionID,MissionName,RocketID,SiteID,Destination,LaunchYear,Outcome
+1,Artemis I,402,301,Moon,2024,Success
+2,Crew-8,401,301,ISS,2024,Success
+3,Gaganyaan Test,404,304,LEO,2024,Success
+4,Chang'e 6,405,305,Moon,2024,Success
+5,Progress MS-27,403,302,ISS,2024,Success
+6,HTV-X1 Test,406,306,ISS,2024,Success
+7,StriX-1,407,307,LEO,2024,Success
+8,Sentinel-6B,401,308,LEO,2024,Success
