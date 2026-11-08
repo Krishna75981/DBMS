@@ -1,0 +1,51 @@
+bookid, title, author, category, price
+1,The Hobbit,J.R.R. Tolkien,Fantasy,15.99
+2,1984,George Orwell,Dystopian,12.5
+3,To Kill a Mockingbird,Harper Lee,Fiction,14.25
+4,Dune,Frank Herbert,Sci-Fi,18
+5,Foundation,Isaac Asimov,Sci-Fi,16.5
+6,Pride and Prejudice,Jane Austen,Romance,10.99
+7,The Great Gatsby,F. Scott Fitzgerald,Classic,11.5
+8,Moby-Dick,Herman Melville,Adventure,13.99
+9,War and Peace,Leo Tolstoy,Historical,19.99
+10,The Odyssey,Homer,Classic,12.99
+11,Crime and Punishment,Fyodor Dostoevsky,Classic,14.5
+12,The Catcher in the Rye,J.D. Salinger,Fiction,10.5
+13,Brave New World,Aldous Huxley,Dystopian,13.5
+14,The Lord of the Rings,J.R.R. Tolkien,Fantasy,25.99
+15,Fahrenheit 451,Ray Bradbury,Dystopian,11.99
+16,Jane Eyre,Charlotte Bronte,Romance,12
+17,The Chronicles of Narnia,C.S. Lewis,Fantasy,21.5
+18,Animal Farm,George Orwell,Dystopian,9.99
+19,The Alchemist,Paulo Coelho,Adventure,14
+20,The Little Prince,Antoine de Saint-Exupéry,Fable,9.5
+21,Dracula,Bram Stoker,Horror,11.25
+22,Frankenstein,Mary Shelley,Horror,10.75
+23,The Picture of Dorian Gray,Oscar Wilde,Classic,11
+24,Les Misérables,Victor Hugo,Historical,18.5
+25,The Count of Monte Cristo,Alexandre Dumas,Adventure,16
+26,The Brothers Karamazov,Fyodor Dostoevsky,Classic,17.5
+27,Anna Karenina,Leo Tolstoy,Historical,15.5
+28,Catch-22,Joseph Heller,Satire,13.25
+29,The Handmaid's Tale,Margaret Atwood,Dystopian,14.5
+30,Neuromancer,William Gibson,Sci-Fi,15
+31,Snow Crash,Neal Stephenson,Sci-Fi,16.25
+32,Hyperion,Dan Simmons,Sci-Fi,17
+33,Ender's Game,Orson Scott Card,Sci-Fi,14.75
+34,I Robot,Isaac Asimov,Sci-Fi,13
+35,The Martian,Andy Weir,Sci-Fi,15.5
+36,The Silmarillion,J.R.R. Tolkien,Fantasy,18.99
+37,American Gods,Neil Gaiman,Fantasy,16.5
+38,Neverwhere,Neil Gaiman,Fantasy,13.5
+39,Good Omens,Terry Pratchett,Fantasy,14.25
+40,The Name of the Wind,Patrick Rothfuss,Fantasy,17.25
+41,The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,14.99
+42,The Two Towers,J.R.R. Tolkien,Fantasy,14.99
+43,The Return of the King,J.R.R. Tolkien,Fantasy,14.99
+44,Lord of the Flies,William Golding,Classic,10.25
+45,The Sun Also Rises,Ernest Hemingway,Classic,12.25
+46,A Farewell to Arms,Ernest Hemingway,Classic,12.75
+47,The Old Man and the Sea,Ernest Hemingway,Classic,9.75
+48,The Grapes of Wrath,John Steinbeck,Historical,14.25
+49,Of Mice and Men,John Steinbeck,Classic,10.5
+50,East of Eden,John Steinbeck,Historical,16.75
